@@ -32,6 +32,7 @@ export const Anchor = styled.a`
     text-decoration: none;
     padding: 10px 15px;
     font-weight: bold;
+    
 
     &:hover {
     color: #eb5424

@@ -1,7 +1,7 @@
 import React , {useState, useEffect} from 'react'; 
 import {
     ProfileSkills, ProfileSection, ProfileList, ProfileItem,
-    ItemSpan, WebSpan, Skills, SkillsDesc, skSpan, Bar,
+    ItemSpan, WebSpan, Skills, SkillsDesc, Bar,
     Title, Perc, Parent, ParentSpan, ProfileTitle, SkillsTitle 
 } from './style.js';
 import axios from 'axios';
