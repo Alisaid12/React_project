@@ -35,15 +35,15 @@ const Profile = () => {
                 <ProfileList>
                     <ProfileItem>
                         <ItemSpan>Name</ItemSpan>
-                        Hamza Nabil
+                        Ali Said
                     </ProfileItem>
                     <ProfileItem>
                         <ItemSpan>Birthday</ItemSpan>
-                        21/1/1996
+                        21/1/200
                     </ProfileItem>
                     <ProfileItem>
                         <ItemSpan>Address</ItemSpan>
-                        Ain shams
+                       Sabadell
                     </ProfileItem>
                     <ProfileItem>
                         <ItemSpan>Phone</ItemSpan>
@@ -51,7 +51,7 @@ const Profile = () => {
                     </ProfileItem>
                     <ProfileItem>
                         <ItemSpan>Email</ItemSpan>
-                        hamza@hamza.com
+                        ali@said.com
                     </ProfileItem>
                     <ProfileItem>
                         <ItemSpan>Website</ItemSpan>

@@ -2,12 +2,12 @@ import styled from 'styled-components'
 import { Link } from 'react-router-dom';
 
 export const NavBarSection = styled.div`
-    padding: 5px 0;
-    overflow: hidden;
-    background: #fff;
-    position: relative;
-    border-bottom: 1px solid #000
-`
+  padding: 5px 0;
+  overflow: hidden;
+  background: #fff;
+  position: relative;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+`;
 export const Logo = styled.div`
     width: 50%;
     float: left;
@@ -22,6 +22,7 @@ export const UlList = styled.ul`
     list-style: none;
     padding: 0;
 `
+
 export const ListItem = styled.li`
     display: inline-block;
 
